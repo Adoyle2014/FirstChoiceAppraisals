@@ -1,16 +1,64 @@
+/*
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Arimo', sans-serif;
+
+*/
+
+
 body {
-	background: #d1d1d1;
+	font-family: 'Arimo', sans-serif;
+	background-color: #c6c6c6;
+
 }
 
-img {
+.row-margin-top-30 {
+	margin-top: 30px;
+}
+
+.jumbotron img {
 	width: 100%;
 }
 
+.service img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+li {
+	list-style: none;
+	padding: 5px 0;
+}
+
 .masthead h3 {
-	background-color: rgba(36, 111, 153, 0.80);
+	background-color: #224467;
 	padding: 5px 10px;
 	border-radius: 5px;
 	color: #d1d1d1;
+}
+
+.jumbotron {
+	padding: 0;
+	margin-top: 40px;
+}
+
+.jumbotron h1 {
+	margin-top: 50px;
+	font-size: 4em;
+
+}
+
+.jumbotron li {
+	font-size: 1.3em;
+}
+
+.well {
+	background-color: rgba(86, 86, 86, 0.6);
+
+}
+
+.well p, .well li {
+	color: #e3e3e3;
 }
 
 .service {
@@ -46,3 +94,4 @@ ul#location {
 #about p {
 	font-size: 1.3em;
 }
+
