@@ -54,6 +54,7 @@ li {
 
 .well {
 	background-color: rgba(86, 86, 86, 0.6);
+	border: 1px solid #224467;
 
 }
 
@@ -95,3 +96,10 @@ ul#location {
 	font-size: 1.3em;
 }
 
+#email a {
+	color: #224467;
+}
+
+.footer-sections {
+	margin-top: 40px;
+}

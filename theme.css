@@ -4,9 +4,9 @@ body {
 }
 
 .footer {
-  padding-top: 40px;
+
   padding-bottom: 40px;
-  margin-top: 40px;
+
   border-top: 1px solid #224467;
 }
 
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
 
 .nav-justified {
-  background-color: #8e8e8e;
+  background-color: #224467;
   border: 1px solid #ccc;
   border-radius: 5px;
 }
